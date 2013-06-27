@@ -132,7 +132,8 @@ width:60%;
 <p class="unfug">
 <?php
   foreach($hurr as $durr)
-    echo $durr[rand(0, count($durr) -1)];
+    echo $durr[rand(0, count($durr) -1)] . "\n";
 ?>
 </p>
 </body>
+</html>
