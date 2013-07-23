@@ -18,6 +18,7 @@
     'Der Terror der Merkel-Junta lässt uns keine andere Wahl, als ',
     'Viktor Schaubergers Schriften haben uns dazu inspiriert, ',
     'Weil wir uns dazu berufen fühlen, in die Fußstapfen Nikola Teslas zu treten, haben wir vor, '
+    'Weil das jüdisch kontrollierte Finanzsystem uns keine andere Wahl lässt, '
   );
 
   // Warum haben sie Superkräfte?
@@ -35,6 +36,7 @@
     'biologisch-dynamisch erzeugte ',
     'radiästhetisch vibrierende ',
     'raum-zeitlich nach innen gerichtete '
+    'negativ bezinste '
   );
 
   // Und was?
@@ -70,6 +72,7 @@
     'Kopfkissen ',
     'Käsebrötchen ',
     'Klaviere '
+    'Postwurfsendungen '
   );
 
   // Was tun wir?
@@ -90,6 +93,7 @@
     'mit Energieakkumulatoren zu modulieren ',
     'harmonisch auszupendeln ',
     'neurolinguistisch zu programmieren '
+    'homöopathisch zu verschütteln '
   );
 
   // Und warum?
@@ -110,7 +114,8 @@
     'um den ungünstigen Tachyonenfluss in Altbauwohnungen zu korrigieren.',
     'um die Aura des Anwenders positiv zu beeinflussen.',
     'um die Selbstreinigungs- und Entschlackungsfähigkeit des Körpers anzuregen.',
-    'um den Bilderbergern auf die Schliche zu kommen..'
+    'um den Bilderbergern auf die Schliche zu kommen.'
+    'um der Zinsknechtschaft ein Ende zu setzen.'
   );
 ?>
 <!DOCTYPE html>
