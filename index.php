@@ -52,7 +52,8 @@
     'Bürolampen ',
     'Akupunkturnadeln ',
     'Voodoopuppen ',
-    'Abfalleimer ',
+	'Abfalleimer ',
+	'Fledermausköttel',
     'Toilettenpapierrollen ',
     'USB-Kabel ',
     'Kaffeemaschinen ',
@@ -113,6 +114,8 @@
     'um auch Laien Astralreisen zu ermöglichen.',
     'um den ungünstigen Tachyonenfluss in Altbauwohnungen zu korrigieren.',
     'um die Aura des Anwenders positiv zu beeinflussen.',
+    'um die Wehen gebärender Frauen zu lindern.',
+    'um unfruchtbaren Frauen den Kinderwunsch zu erfüllen.',
     'um die Selbstreinigungs- und Entschlackungsfähigkeit des Körpers anzuregen.',
     'um den Bilderbergern auf die Schliche zu kommen.',
     'um der Zinsknechtschaft ein Ende zu setzen.'
