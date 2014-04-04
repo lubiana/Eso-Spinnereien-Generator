@@ -35,6 +35,7 @@
     'nach Plänen von Dr. Axel Stoll konstruierte ',
     'auf vedischer Wissenschaft basierende ',
     'mit Hilfe der Alpha-Synapsen-Programmierung korrigierte ',
+    'pseudosymmetrische',
     'biologisch-dynamisch erzeugte ',
     'radiästhetisch vibrierende ',
     'raum-zeitlich nach innen gerichtete ',
