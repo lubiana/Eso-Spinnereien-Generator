@@ -19,7 +19,7 @@
     'Der Terror der Merkel-Junta lässt uns keine andere Wahl, als ',
     'Viktor Schaubergers Schriften haben uns dazu inspiriert, ',
     'Weil wir uns dazu berufen fühlen, in die Fußstapfen Nikola Teslas zu treten, haben wir vor, ',
-    'Weil das jüdisch kontrollierte Finanzsystem uns keine andere Wahl lässt, '
+    'Weil das jüdisch kontrollierte Finanzsystem uns keine andere Wahl lässt, ist es unsere Pflicht, '
   );
 
   // Warum haben sie Superkräfte?
