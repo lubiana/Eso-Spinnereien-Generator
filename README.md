@@ -1,4 +1,4 @@
 Eso-Spinnereien-Generator
 =========================
 
-Eso-Spinnereien-Generator nach [Dr. tka](https://twitter.com/darktka)
+Eso-Spinnereien-Generator nach [Dr. tka](http://tka.wzf.wtf/)
